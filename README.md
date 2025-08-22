@@ -13,7 +13,6 @@ A comprehensive hotel reservation system built with **Spring Boot Microservices 
 <img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 50 39 PM" src="https://github.com/user-attachments/assets/dd69e543-5b44-4d65-b5d6-5081af9c92f4" />
 <img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 50 47 PM" src="https://github.com/user-attachments/assets/74662b72-9dd3-431d-8a56-e2a5028ca2ec" />
 <img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 51 00 PM" src="https://github.com/user-attachments/assets/cb4489ea-1002-4ef7-8ac7-db1b287a515f" />
-<img width="1610" height="1568" alt="Profile " src="https://github.com/user-attachments/assets/9fe173d4-b3d9-4f2a-b614-6c2b1ddf56a0" />
 
 
 ## ✅ System Status
