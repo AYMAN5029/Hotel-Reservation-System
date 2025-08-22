@@ -2,6 +2,18 @@
 
 A comprehensive hotel reservation system built with **Spring Boot Microservices Architecture**, featuring distributed services with **Netflix Eureka** service discovery, **Spring Cloud Gateway**, and **mock payment processing**. The system provides complete end-to-end functionality for hotel booking, reservation management, and administrative operations.
 
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 48 26 PM" src="https://github.com/user-attachments/assets/7a097104-86f4-4ad3-94a0-9cdab8ad005f" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 48 35 PM" src="https://github.com/user-attachments/assets/187dfa01-366a-4c5d-8b30-c4685eddec33" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 48 44 PM" src="https://github.com/user-attachments/assets/48b2da1b-55e8-4734-98ea-ba296e713878" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 49 21 PM" src="https://github.com/user-attachments/assets/5ca6f6f9-05d6-4014-b1a6-19b5198c6db5" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 49 36 PM" src="https://github.com/user-attachments/assets/10490720-e507-466a-a721-ec85bd8d61d6" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 49 50 PM" src="https://github.com/user-attachments/assets/051dabef-41a0-416f-aa21-418e8c97a71d" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 50 05 PM" src="https://github.com/user-attachments/assets/1aba8ac9-be3d-4bf5-9e8b-7bfd689a6ddc" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 50 15 PM" src="https://github.com/user-attachments/assets/5322f76d-cd5c-4de7-a024-a13a4a7a08d9" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 50 39 PM" src="https://github.com/user-attachments/assets/dd69e543-5b44-4d65-b5d6-5081af9c92f4" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 50 47 PM" src="https://github.com/user-attachments/assets/74662b72-9dd3-431d-8a56-e2a5028ca2ec" />
+<img width="1552" height="987" alt="Screenshot 2025-08-22 at 1 51 00 PM" src="https://github.com/user-attachments/assets/cb4489ea-1002-4ef7-8ac7-db1b287a515f" />
+
 ## ✅ System Status
 **FULLY OPERATIONAL** - All microservices are integrated and working end-to-end:
 - ✅ User authentication and registration
